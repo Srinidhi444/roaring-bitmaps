@@ -1,3 +1,6 @@
 *main.exe
 *main.obj
 *.vscode
+*benchmark.exe
+*tests.exe
+*benchmark.obj
